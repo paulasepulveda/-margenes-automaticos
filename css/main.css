@@ -1,0 +1,37 @@
+.caja1 p {
+
+	display: inline-block;
+	border: 20px solid yellow;
+	width:210px;
+	height: 180px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 600px;
+	margin-bottom: 0px;
+	font-size: 17px;
+	text-align: center;
+	text-anchor: 20%;
+}
+.caja2 p {
+
+	display: inline-block;
+	border: 20px solid yellow;
+	width:210px;
+	height: 180px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 500px;
+	margin-right: 100px;
+	margin-bottom: 500px;
+	margin-top: 0px;	
+	font-size: 17px;
+	text-align: center;
+}
+
+	
